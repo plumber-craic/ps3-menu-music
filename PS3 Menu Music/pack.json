@@ -1,0 +1,9 @@
+{
+  "name": "PS3 Menu Music",
+  "author": "plumber-craic",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": [],
+  "id": "079177c8-b6bd-4b9b-8f1f-e2871348d901"
+}
